@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/patrickpalmer-mayamcp-badge.png)](https://mseep.ai/app/patrickpalmer-mayamcp)
+
 # Maya MCP
 Model Context Protocol (MCP) server implementation for Autodesk Maya
 
